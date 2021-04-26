@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "f59kv2hCal47eH3l3QSte+RWua8o2LgqOwFw9G3BUVchbTsGwhWDfmTsy9ATNHzIFzwytKWk8ECCpz2DTy+8VA==",
+  "success": true,
+  "projectFilePath": "/Users/danebalia/Documents/Source/scratch/identityserver4_sample/quickstart/src/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/danebalia/.nuget/packages/identitymodel/5.1.0/identitymodel.5.1.0.nupkg.sha512",
+    "/Users/danebalia/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/danebalia/.nuget/packages/system.text.encodings.web/5.0.1/system.text.encodings.web.5.0.1.nupkg.sha512",
+    "/Users/danebalia/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
